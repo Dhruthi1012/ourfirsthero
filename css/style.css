@@ -571,6 +571,12 @@ body{
 
 }
 
+.accordion-content{
+    display:none;
+    padding:20px 0;
+}
+
+
 
 
 
